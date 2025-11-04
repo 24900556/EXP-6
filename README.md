@@ -1,5 +1,4 @@
-# EXP-6
-# EXP No. :6 			CHARACTERISTICS M OF LVDT
+# EXP-6		CHARACTERISTICS M OF LVDT
 ## AIM:
 To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
@@ -12,6 +11,7 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-11-04 at 14 06 24_bf99cf74](https://github.com/user-attachments/assets/93197fbc-5680-410c-bc06-f6786d95a5bd)
 
 ## PROCEDURE: 
     I. Connect the multimeter at the output of kit..
@@ -22,6 +22,10 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 
 ## OBSERVATION TABLE
+![WhatsApp Image 2025-11-04 at 14 06 23_a4314bb4](https://github.com/user-attachments/assets/253273fd-e0ca-4b24-97c8-2c05d032b6bd)
+
+## MODEL GRAPH
+![WhatsApp Image 2025-11-04 at 14 03 12_51895837](https://github.com/user-attachments/assets/a2c8c766-e141-4da8-8bc4-665353a55c6e)
 
 ## PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
@@ -36,7 +40,11 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 ### Negative Displacement:
 <img width="1329" height="794" alt="Screenshot 2025-10-27 092036" src="https://github.com/user-attachments/assets/c50d4b94-13f1-493c-8166-6f9ec32217c2" />
 
+## PRECAUTION: -
+1. The values on the multimeter should be carefully noted.
+2. The core should be set to a maximum value of 20mm.
+3. To get the good performance from the kit, main room temperature.
+4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-
-## RESULT:  
-LVDT was studied well and graph of displacement was linear for a particular range.
+## RESULT: 
+- LVDT was studied well and graph of displacement was linear for a particular range.
